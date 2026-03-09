@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Logs
+*.log
+
+# No subir archivos de prueba locales (si no quieres compartirlos)
+archivo.txt
+test-data/
+temp/
+
+# Archivos de sistema
+.DS_Store
